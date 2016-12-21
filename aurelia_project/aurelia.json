@@ -111,6 +111,14 @@
           "aurelia-templating-binding",
           "text",
           {
+            "name":"milligram",
+            "path":"../node_modules/milligram",
+            "resources":[
+              "dist/milligram.css"
+            ]
+
+          },
+          {
             "name": "aurelia-templating-resources",
             "path": "../node_modules/aurelia-templating-resources/dist/amd",
             "main": "aurelia-templating-resources"
